@@ -1,0 +1,3 @@
+Tools installed in NPM:
+Prettier.io [ makes code neat (according to style rules)]
+Linter
